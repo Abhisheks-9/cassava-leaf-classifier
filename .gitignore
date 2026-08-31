@@ -1,0 +1,18 @@
+# data
+data/
+*.csv
+
+# model weights
+saved_models/*.pt
+saved_models/*.pth
+saved_models/*.h5
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# os
+.DS_Store
